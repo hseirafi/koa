@@ -1,0 +1,19 @@
+{
+  "name": "koa-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hossmonn",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-body": "^4.2.0",
+    "co-monk": "^1.0.0",
+    "koa": "^1.2.4",
+    "koa-route": "^2.4.2",
+    "monk": "^3.1.3"
+  }
+}
